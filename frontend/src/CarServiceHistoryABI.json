@@ -1,0 +1,15 @@
+[
+    {
+      "inputs": [
+        { "internalType": "string", "name": "_serialId", "type": "string" },
+        { "internalType": "string", "name": "_make", "type": "string" },
+        { "internalType": "string", "name": "_model", "type": "string" },
+        { "internalType": "string", "name": "_purchaseDate", "type": "string" }
+      ],
+      "name": "registerCar",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ]
+  
